@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "_id": "1763716649507farib3dpj",
+      "username": "test",
+      "email": "test@test.com",
+      "accountname": "test1234",
+      "intro": "",
+      "image": "",
+      "password": "11111111",
+      "following": [],
+      "follower": []
+    },
+    {
+      "_id": "17657679824677clk03oii",
+      "username": "est",
+      "email": "est@est.com",
+      "accountname": "est1234",
+      "intro": "",
+      "image": "",
+      "password": "11111111",
+      "follower": [],
+      "following": []
+    }
+  ],
+  "posts": [],
+  "reports": [],
+  "hearts": [],
+  "comments": [],
+  "products": []
+}
